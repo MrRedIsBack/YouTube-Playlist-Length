@@ -30,7 +30,9 @@ pip install -r requirements.txt
 3. Create credentials (API key) and copy it.
 
 ## Usage
-Run the script and use the terminal.
+1. Create a keys.env file
+2. Store your API key with the variable name "YouTube_API_KEY"
+3. Run the script and use the terminal.
 
 ## License
 MIT License. See LICENSE file for details.
