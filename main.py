@@ -59,9 +59,6 @@ def get_all_videos_from_playlist(playlist_id: str) -> list:
 
     return all_videos
 
-#playlist_id = PLYNWcRHKhTsuNvqQY279DU4SYDswHemzQ
-#lit hq id = PLs1Uc0mySIqtTr80fTKcTnFBXjvt9_Fl0
-
 while True:
     playlist_id = input("Enter a YouTube playlist ID (or 'exit' to quit): ")
     if playlist_id.lower() == "exit":
