@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ## Setup
 1. Go to [Google Cloud Console](https://console.cloud.google.com/).
 2. Create a project, enable YouTube Data API v3.
-3. Create credentials (API key) and copy it. [github](https://github.com/zxkeyy/CalcYTWatchTime)
+3. Create credentials (API key) and copy it.
 
 ## Usage
 Run the script and use the terminal.
